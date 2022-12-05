@@ -15,12 +15,12 @@ Table des matières
 *******
 <div id='7clusteurs'/>  
 
-##K-means avec les 7 clusteurs
+## K-means avec les 7 clusteurs
 ![](kmeans7clusteurs.png)
 
 <div id='3clusteurs'/>  
 
-##K-means avec 3 clusteurs
+## K-means avec 3 clusteurs
 
 ![](kmeans3clusteurs.png)
 
@@ -30,7 +30,7 @@ Table des matières
 * Versicolor - en rouge
 * Virginica - en vert
 
-###Differentes états de l'Iris
+### Differentes états de l'Iris
 
 Afin de tourner et afficher les differentes états de l'iris (en détail), il suffit de modifier legerement le code : 
 
