@@ -1,2 +1,0 @@
-# kmeans
-Kmeans Iris 
