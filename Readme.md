@@ -1,4 +1,4 @@
-#K-means d'Iris Setosa
+# K-means d'Iris Setosa
 ![setosa](img_2.png)
 ## Qu'est-ce que le K-means ?
 Selon Wikipedia  :
