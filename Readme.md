@@ -1,5 +1,5 @@
 # K-means d'Iris Setosa
-![setosa](img_2.png)
+![setosa](./ressources/img_2.png)
 ## Qu'est-ce que le K-means ?
 Selon Wikipedia  :
 
@@ -16,13 +16,13 @@ Table des matières
 <div id='7clusteurs'/>  
 
 ## K-means avec les 7 clusteurs
-![](kmeans7clusteurs.png)
+![](./ressources/kmeans7clusteurs.png)
 
 <div id='3clusteurs'/>  
 
 ## K-means avec 3 clusteurs
 
-![](kmeans3clusteurs.png)
+![](./ressources/kmeans3clusteurs.png)
 
 <div id='etats'/>  
 
@@ -34,7 +34,7 @@ Table des matières
 
 Afin de tourner et afficher les differentes états de l'iris (en détail), il suffit de modifier legerement le code : 
 
-![img.png](img.png)
+![img.png](./ressources/img.png)
 
 
     KMeans.scala
