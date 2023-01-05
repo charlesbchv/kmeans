@@ -47,5 +47,5 @@ Afin de tourner et afficher les differentes états de l'iris (en détail), il su
 
 
 
-© Réalisé par **Sebastien Rodrigues** et **Charles Batchaev**
+© Réalisé par **Charles Batchaev** et **Sebastien Rodrigues**
 
