@@ -3,7 +3,7 @@
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/charlesbchv/kmeans">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/charlesbchv/kmeans"></p>
 
-#K-means d'Iris Setosa
+# K-means d'Iris Setosa
 ![setosa](./ressources/img_2.png)
 ## Qu'est-ce que le K-means ?
 Selon Wikipedia  :
