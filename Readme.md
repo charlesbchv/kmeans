@@ -1,7 +1,6 @@
 <p align="center"> 
-<a href="https://img.shields.io/github/languages/count/charlesbchv/kmeans" alt="Built Status">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/charlesbchv/kmeans">
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/charlesbchv/kmeans?style=plastic)
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/charlesbchv/kmeans?style=plastic">
 </p>
 
 #K-means d'Iris Setosa
