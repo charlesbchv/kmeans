@@ -2,7 +2,8 @@
 <p align="center"> 
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/charlesbchv/kmeans">
 <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/charlesbchv/kmeans">
-<img alt="Bower" src="https://img.shields.io/bower/l/space"></p>
+<img alt="Bower" src="https://img.shields.io/bower/l/space">
+</p>
 
 # K-means d'Iris Setosa
 ![setosa](./ressources/img_2.png)
