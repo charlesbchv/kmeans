@@ -48,4 +48,7 @@ Afin de tourner et afficher les differentes états de l'iris (en détail), il su
 
 
 © Réalisé par **Charles Batchaev** et **Sebastien Rodrigues**
-
+<p align="center"> 
+<a href="https://img.shields.io/github/languages/count/charlesbchv/kmeans" alt="Built Status">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/charlesbchv/kmeans">
+</p>
