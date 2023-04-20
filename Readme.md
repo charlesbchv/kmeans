@@ -2,7 +2,6 @@
 <a href="https://img.shields.io/github/languages/count/charlesbchv/kmeans" alt="Built Status">
 <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/charlesbchv/kmeans">
 </p>
-image:https://img.shields.io/github/languages/count/charlesbchv/kmeans[GitHub language count]
 
 #K-means d'Iris Setosa
 ![setosa](./ressources/img_2.png)
